@@ -1,0 +1,6 @@
+ -- Create table govid(
+ --      eno varchar(10) PRIMARY KEY,
+ --      depart varchar(10)
+ --  ) ;
+
+ -- insert into govid values('9560', 'safety'),('1234', 'personnel'),('4321', 'safety');
